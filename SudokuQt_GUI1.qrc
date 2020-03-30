@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="SudokuQt_GUI">
+    </qresource>
+</RCC>
