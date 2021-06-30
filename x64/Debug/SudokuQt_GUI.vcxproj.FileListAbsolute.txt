@@ -1,2 +1,0 @@
-C:\Chandu\Projects\VIP\SudokuSolverQt_GUI\SudokuGameQt\x64\Debug\SudokuQt_GUI.exe
-C:\Chandu\Projects\VIP\SudokuSolverQt_GUI\SudokuGameQt\x64\Debug\SudokuQt_GUI.pdb

@@ -1,0 +1,4 @@
+#ignore the following files from commit
+
+x64/
+.vs/
